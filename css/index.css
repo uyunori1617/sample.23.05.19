@@ -132,6 +132,18 @@ img {
     .header-logo {
         width: 100px;
     }
+
+    .main {
+        padding-top: 50px;
+    }
+
+    .footer-logo {
+        margin-top: 60px;
+    }
+
+    .copyright {
+        margin-top: 50px;
+    }
 }
 
 .footer {
