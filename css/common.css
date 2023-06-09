@@ -64,6 +64,17 @@ img {
     font-family: 'Yuji Boku', serif;
 }
 
+@media (max-width: 800px) {
+    .site-menu ul {
+        display: block;
+        text-align: center;
+    }
+
+    .site-menu li {
+        margin-top: 20px;
+    }
+}
+
 .footer {
     color: #ffffff;
     background-color: #24211b;
